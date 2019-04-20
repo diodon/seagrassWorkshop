@@ -27,7 +27,7 @@ description: "Sitio de información del taller de Fanerógamas Marinas, Santa Ma
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![Los Roques](docs/images/seagrass01.png)
+![Los Roques](images/seagrass01.png)
 
 # Introducción
 
