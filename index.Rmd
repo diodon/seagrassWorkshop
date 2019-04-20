@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-![Los Roques](images/seagrass01.png)
+![Los Roques](images/seagrass01.jpg)
 
 # Introducción
 
