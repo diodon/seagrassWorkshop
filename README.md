@@ -1,2 +1,2 @@
 # seagrassWorkshop
-Taller de entrenamiento en métodos de estudiuo de pastos marinos tropicals
+Taller de entrenamiento en métodos de estudio de pastos marinos tropicals
