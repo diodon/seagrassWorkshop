@@ -1,0 +1,32 @@
+--- 
+title: "Taller Métodos de Estudio de Fanerógamas Marinas"
+author: "Santa Marta, 13-17 Mayo 2019"
+date: "Última versión `r Sys.Date()`"
+site: "bookdown::bookdown_site"
+output:
+  bookdown::gitbook:
+    highlight: tango
+documentclass: book
+output_dir: "docs"
+description: "Este es un libro-guía que muestra cómo analizar los datos de las prácticas del Laboratorio de Ecología 1 de la USB."
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introducción
+
+Este taller de entrenamiento tiene como objeto el de poner en práctica algunas técnicas modernas para el estudio de las comunidades de fanerógamas marinas. En especial: 
+
+1. Distribución y abundancia  de fanerógamas marinas
+2. Composición de la comunidad de peces asociada
+3. Tasa de depredación de los peces asociados a las praderas de fanerógamas
+4. Cobertura espacial de las praderas utilizando herraminetas de senosres remotos
+5. Extracción de variables oceanográficas (temperatura, salinidad, etc) mediante usos de herramientas satelitales
+
+El taller cuenta con el apoyo del [INVEMAR](http://www.invemar.org.co) y los trabajos de campo se realizarán en una localidad del [Parque Nacional Tayrona](http://www.parquesnacionales.gov.co/portal/es/ecoturismo/region-caribe/parque-nacional-natural-tayrona/).
+
+
+   
