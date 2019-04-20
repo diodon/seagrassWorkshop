@@ -27,6 +27,7 @@ description: "Sitio de información del taller de Fanerógamas Marinas, Santa Ma
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 ![Los Roques](images/seagrass01.png)
 
 # Introducción
@@ -36,7 +37,7 @@ Este taller de entrenamiento tiene como objeto el de poner en práctica algunas 
 1. Distribución y abundancia  de fanerógamas marinas
 2. Composición de la comunidad de peces asociada
 3. Tasa de depredación de los peces asociados a las praderas de fanerógamas
-4. Cobertura espacial de las praderas utilizando herraminetas de senosres remotos
+4. Cobertura espacial de las praderas utilizando herramientas de senosres remotos
 5. Extracción de variables oceanográficas (temperatura, salinidad, etc) mediante usos de herramientas satelitales
 
 El taller cuenta con el apoyo del [INVEMAR](http://www.invemar.org.co) y los trabajos de campo se realizarán en una localidad del [Parque Nacional Tayrona](http://www.parquesnacionales.gov.co/portal/es/ecoturismo/region-caribe/parque-nacional-natural-tayrona/).
