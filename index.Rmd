@@ -4,14 +4,18 @@ author: "Santa Marta, 13-17 Mayo 2019"
 date: "Última versión `r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
-  bookdown::pdf_book:
   bookdown::gitbook:
-    toolbar:
-      position: fixed
+    config:
+      toc:
+        collapse: none
+        scroll_highlight: yes
+      toolbar:
+        position: fixed
       download: ["pdf"]
     split_by: none
     split_bib: yes
     highlight: tango
+  bookdown::pdf_book:
 documentclass: book
 output_dir: "docs"
 github-repo: diodon/seagrassWorkshop
@@ -22,6 +26,8 @@ description: "Sitio de información del taller de Fanerógamas Marinas, Santa Ma
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+![Los Roques](docs/images/seagrass01.png)
 
 # Introducción
 
