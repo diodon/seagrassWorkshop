@@ -2,13 +2,20 @@
 title: "Taller Métodos de Estudio de Fanerógamas Marinas"
 author: "Santa Marta, 13-17 Mayo 2019"
 date: "Última versión `r Sys.Date()`"
-site: "bookdown::bookdown_site"
+site: bookdown::bookdown_site
 output:
+  bookdown::pdf_book:
   bookdown::gitbook:
+    toolbar:
+      position: fixed
+      download: ["pdf"]
+    split_by: none
+    split_bib: yes
     highlight: tango
 documentclass: book
 output_dir: "docs"
-description: "Este es un libro-guía que muestra cómo analizar los datos de las prácticas del Laboratorio de Ecología 1 de la USB."
+github-repo: diodon/seagrassWorkshop
+description: "Sitio de información del taller de Fanerógamas Marinas, Santa Marta 13-17 Mayo 2019"
 ---
 
 
@@ -27,6 +34,11 @@ Este taller de entrenamiento tiene como objeto el de poner en práctica algunas 
 5. Extracción de variables oceanográficas (temperatura, salinidad, etc) mediante usos de herramientas satelitales
 
 El taller cuenta con el apoyo del [INVEMAR](http://www.invemar.org.co) y los trabajos de campo se realizarán en una localidad del [Parque Nacional Tayrona](http://www.parquesnacionales.gov.co/portal/es/ecoturismo/region-caribe/parque-nacional-natural-tayrona/).
+
+
+# Alcances esperados
+
+Al final del taller se espera que los participantes hayan practicado las técnicas-objetivos y que puedan replicar estas en proyectos desarrolaldos en Venezuela, especialmente si ella forman parte de trabajos de grado de estudiantes.
 
 # Instructores
 
