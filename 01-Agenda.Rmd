@@ -9,7 +9,7 @@
 10:00am - 10:45am   | Introducción al Taller. Presentación de los participantes 
 10:45am - 12:00m    | Recorrido por las instalaciones del INVEMAR
 12:00m - 1:00pm     | Almuerzo en el INVEMAR
-1:00pm - 3:15pm     | Introducción a los sistemas de Fanerógamas Marinas dentro del marco del programa GOOS Biología y Ecosistemas. *Patricia Miloslavich*. <br> Introducción al Sistema d eInformación Geográfica OBIS *Eduardo Klein*
+1:00pm - 3:15pm     | Introducción a los sistemas de Fanerógamas Marinas dentro del marco del programa GOOS Biología y Ecosistemas. *Patricia Miloslavich*. <br> Introducción al Sistema de Información Biogeográfica OBIS *Eduardo Klein*
 3:15pm - 3:30pm     | Receso café
 3:30pm - 5:00pm     | Método de estimación de cobertura y biomasa en praderas de fanerógamas marinas. *INVEMAR*  <br> Método de estimación de la cobertura y biomasa de fanerógamas marinas. Método de medición de la tasa depredación de peces (SquidPops). Ensamblaje de los SquidPops. *Jonathan Leafcheck*
 

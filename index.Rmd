@@ -45,7 +45,7 @@ Los datos generados serán cargados en OBIS como un *dataset* del taller. Este d
 
 # Instructores
 
-- Patricia Miloslavich. Dep. Estudios Ambientales, Universidad Simón Bolivar. GOOS Biology and Ecosystem Panel Universidad de Tasmania, Australia.
+- Patricia Miloslavich. Dep. Estudios Ambientales, Universidad Simón Bolivar. GOOS Biology and Ecosystem Panel. Institute of Marine and Antarctic Studies, Universidad de Tasmania, Australia.
 - Eduardo Klein. Dep. Estudios Ambientales, Universidad Simón Bolívar. OBIS Steering Group co-Chair.
 - Enrique Montes Herrera. Universidad del Sur de la Florida. Marine Biodiversity Observation Network MBON. 
 - Jonathan Lefcheck. Smithsonian Intitution. Marine GEO
