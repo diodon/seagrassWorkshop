@@ -3,21 +3,15 @@ title: "Taller Métodos de Estudio de Fanerógamas Marinas"
 author: "Santa Marta, 13-17 Mayo 2019"
 date: "Última versión `r Sys.Date()`"
 site: bookdown::bookdown_site
-output:
+output:  
   bookdown::gitbook:
-    config:
-      toc:
-        collapse: none
-        scroll_highlight: yes
-      toolbar:
-        position: fixed
-      download: ["pdf"]
     split_by: none
-    split_bib: yes
-    highlight: tango
+    config: 
+      download: ['pdf']
+      search: yes
   bookdown::pdf_book:
+    base_format: tufte::tufte_handout
 documentclass: book
-output_dir: "docs"
 github-repo: diodon/seagrassWorkshop
 description: "Sitio de información del taller de Fanerógamas Marinas, Santa Marta 13-17 Mayo 2019"
 ---
@@ -47,12 +41,16 @@ El taller cuenta con el apoyo del [INVEMAR](http://www.invemar.org.co) y los tra
 
 Al final del taller se espera que los participantes hayan practicado las técnicas-objetivos y que puedan replicar estas en proyectos desarrolaldos en Venezuela, especialmente si ella forman parte de trabajos de grado de estudiantes.
 
+Los datos generados serán cargados en OBIS como un *dataset* del taller. Este dataset estará disponible abiertamente en GBIF (con un DOI) y en OBIS
+
 # Instructores
 
-- Patricia Miloslavich. Dep. Estudios Ambientales, Universidad Simón Bolivar. GOOS biology and Ecosystem Panel
-- Eduardo Klein. Dep. Estudios Ambientales, Universidad Simón BOlívar. OBIS Steering Group co-Chair.
-- Enrique Montes Herrera. Universidad del Sur de la Florida. Marione Biodiversity Observation Network. 
+- Patricia Miloslavich. Dep. Estudios Ambientales, Universidad Simón Bolivar. GOOS Biology and Ecosystem Panel Universidad de Tasmania, Australia.
+- Eduardo Klein. Dep. Estudios Ambientales, Universidad Simón Bolívar. OBIS Steering Group co-Chair.
+- Enrique Montes Herrera. Universidad del Sur de la Florida. Marine Biodiversity Observation Network MBON. 
 - Jonathan Lefcheck. Smithsonian Intitution. Marine GEO
+- INVEMAR 1 Thalassia
+- INVEMAR 2 Peces
 
 
 # Participantes
