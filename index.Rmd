@@ -13,7 +13,7 @@ output:
     base_format: tufte::tufte_handout
 documentclass: book
 github-repo: diodon/seagrassWorkshop
-description: "Sitio de información del taller de Fanerógamas Marinas, Santa Marta 13-17 Mayo 2019"
+description: "Sitio de información del taller de Pastos Marinos, Santa Marta 13-17 Mayo 2019"
 ---
 
 
@@ -26,11 +26,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introducción
 
-Este taller de entrenamiento tiene como objeto el de poner en práctica algunas técnicas modernas para el estudio de las comunidades de fanerógamas marinas. En especial: 
+Este taller de entrenamiento tiene como objeto el de poner en práctica algunas técnicas modernas para el estudio de las comunidades de pastos marinos. En especial: 
 
-1. Distribución y abundancia  de fanerógamas marinas
+1. Distribución y abundancia  de pastos marinos
 2. Composición de la comunidad de peces asociada
-3. Tasa de depredación de los peces asociados a las praderas de fanerógamas
+3. Tasa de depredación de los peces asociados a los pastos marinos.
 4. Cobertura espacial de las praderas utilizando herramientas de senosres remotos
 5. Extracción de variables oceanográficas (temperatura, salinidad, etc) mediante usos de herramientas satelitales
 
@@ -49,10 +49,11 @@ Los datos generados serán cargados en OBIS como un *dataset* del taller. Este d
 - Eduardo Klein. Dep. Estudios Ambientales, Universidad Simón Bolívar. OBIS Steering Group co-Chair.
 - Enrique Montes Herrera. Universidad del Sur de la Florida. Marine Biodiversity Observation Network MBON. 
 - Jonathan Lefcheck. Smithsonian Intitution. Marine GEO
-- INVEMAR 1 Thalassia
-- INVEMAR 2 Peces
+- Diana Gómez López. Programa de Biodiversidad y Ecosistemas Marinos. INVEMAR
+- Juan David GOnzález. INVEMAR
 
 
 # Participantes
+
 
    
