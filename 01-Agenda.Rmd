@@ -36,7 +36,7 @@
 | Jueves 16              |                                                              |
 |:------------------ |:-------------------------------------------------------------------------- |
 8:00am              | Transporte del hotel al INVEMAR
-8:30am - 10:15am    | Herramientas satelitales para le estudio del océano. Ejercicios de extracicón de TSM y Chl. * Enrique Montes*.
+8:30am - 10:15am    | Herramientas satelitales para le estudio del océano. Ejercicios de extracicón de TSM y Chl. *Enrique Montes*.
 10:15am - 10:30am   | Receso café
 10:30am - 12:00m    | Análisis de datos. Protocolos. *Jonathan Lefcheck, Eduardo Klein* 
 12:00m - 1:00pm     | Almuerzo INVEMAR
