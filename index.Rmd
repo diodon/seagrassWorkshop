@@ -50,7 +50,7 @@ Los datos generados serán cargados en OBIS como un *dataset* del taller. Este d
 - Enrique Montes Herrera. Universidad del Sur de la Florida. Marine Biodiversity Observation Network MBON. 
 - Jonathan Lefcheck. Smithsonian Intitution. Marine GEO
 - Diana Gómez López. Programa de Biodiversidad y Ecosistemas Marinos. INVEMAR
-- Juan David GOnzález. INVEMAR
+- Juan David González. INVEMAR
 
 
 # Participantes
