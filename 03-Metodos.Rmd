@@ -6,12 +6,11 @@
 ## Métodos para estimar la abundancia y composicion de peces asociados a los pastos marinos
 
 
-## Métodos para estimar la tasa de depración de peces en pastos marinos (*SquidPops*)
-
+## Métodos para estimar la tasa de depredación de peces en pastos marinos (*SquidPops*)
 
 
 ## Métodos para la extracción de datos satelitales de temperatura superficial del mar y clorofila
 
 
-## Métodos par ale control de calidad y registro de datos en OBIS
+## Métodos para el control de calidad y registro de datos en OBIS
 
