@@ -6,7 +6,7 @@
 | Lunes 13               |                                                                 |
 |:------------------ |:-------------------------------------------------------------------------- |
 9:30am              | Transporte busca a los participantes en el Hotel para llevarlos al INVEMAR
-10:00am - 10:45am   | Introducción al Taller. Presentación de los participantes 
+10:00am - 10:45am   | Bienvenida al INVEMAR *Paula Sierra*. Introducción al Taller. Presentación de los participantes
 10:45am - 12:00m    | Recorrido por las instalaciones del INVEMAR
 12:00m - 1:00pm     | Almuerzo en el INVEMAR
 1:00pm - 3:15pm     | Introducción a los sistemas de Pastos Marinos dentro del marco del programa GOOS Biología y Ecosistemas. *Patricia Miloslavich*. <br> Introducción al Sistema de Información Biogeográfica OBIS *Eduardo Klein*.
@@ -48,7 +48,7 @@
 | Viernes 17             |                                                              |
 |:------------------ |:-------------------------------------------------------------------------- |
 8:00am              | Transporte del hotel al INVEMAR
-8:30am - 10:15am    | Procesamineto de datos. Carga de datos a OBIS.
+8:30am - 10:15am    | Procesamineto de datos. Elaboración de los metadatos. Carga de datos en el IPT del nodo regional OBIS del Caribe.
 10:15am - 10:30am   | Receso café
 10:30am - 12:00m    | Presentación de resultados por grupo. Cierre del Taller
 12:00m - 1:00pm     | Almuerzo INVEMAR

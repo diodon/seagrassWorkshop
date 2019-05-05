@@ -1,11 +1,33 @@
 # Logística
 
-## llegada/salida
+El taller se realizará en las instalaciones del INVEMAR, Santa Marta. Colombia. El taller incluye el alojamiento y las comidas. 
+
+Un transporte estará a la espera de los participantes en el aeropuerto para llevarlos al hotel el día domingo. El hotel incluye los desayunos y a las 8:00 se hará el transporte del hotel a las instalaciones del INVEMAR. Detalles de la logística serán presentados el Lune.
+
+
+## Organización del trabajo
+
+Los participantes estarán trabajanod en equipos durante toda la semana. Se espera que para el día viernes cada uno de los equipos de trabajo presente el resultado de sus análisis y que cargue los registros de biodiversidad a la base de datos OBIS.
+
+Se espera que los participantes traigan su computador personal para realizar los trabajaos durante la semana. Deben tener instalado el [R Studio](https://www.rstudio.com), ya que los análisis se realizarán principalmente en R. 
+
 
 ## Trabajo de Campo/Buceo
 
+El taller incluye un día de trabajo de campo en (martes) la Bahía de Chengue, en el Parque Nacional Tayrona. lo sparticipantes deben traer al menos sus equipos ligeros de buceo, el resto d elos equipos serán propocionados por el INVEMAR.
+
+**Si estás registrado para bucear debes traer tu cartet de buceo y haber completado la planilla de seguridad que fue enviada por correo**
+
+La duración del trabajo de campo es de un día completo por lo que se recomienda traer protector solar, gorra y ropa seca de repuesto.
+
+El día miércoles un grupo reducido de participantes volverá a la Bahía de Chegue a retirar los *squidpops* que fueron dejados el día anterior. 
+
 ## Trabajo laboratorio
 
+EL procesamiento de las muestras de pastos marinos se realizará en el INVEMAR y el día lunes les serán presentadas las condiciones para trabjar en los laboratorios. 
+
 ## Reporte
+
+Se espera que para el día viernes cada uno de los equipos elabore un informe de las actividades realizadas y realice una presentación sobre las conclusiones obtenidas. Uno de los productos finales será un conjunto de datos que será subido a OBIS y registrado en GBIF. Potencialmente se podrá esquematizar un posible *data paper* que describa los datos obtenidos de esta actividad.
 
 
