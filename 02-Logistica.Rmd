@@ -1,6 +1,20 @@
 # Logística
 
-El taller se realizará en las instalaciones del INVEMAR, Santa Marta. Colombia. El taller incluye el alojamiento y las comidas. 
+El taller se realizará en las instalaciones del INVEMAR, Santa Marta. Colombia. Los trabajos de cmapo sse realizarán en la Baia de Chengue, PN Tayrona. 
+
+```{r map, echo=FALSE}
+library(leaflet)
+
+
+m = leaflet() %>% addTiles() %>% addMarkers(lat = c(11.18855, 11.321587), 
+                                            lng=c(-74.23079, -74.131489), 
+                                            label = c("INVEMAR", "Bahía Chengue")) %>% 
+  addMiniMap()
+
+m
+
+```
+
 
 Un transporte estará a la espera de los participantes en el aeropuerto para llevarlos al hotel el día domingo. El hotel incluye los desayunos y a las 8:00 se hará el transporte del hotel a las instalaciones del INVEMAR. Detalles de la logística serán presentados el Lune.
 
