@@ -43,11 +43,15 @@ Para ellos utilizaremos un conjunto de herramientas en R que nos permitirán ext
 
 Para esta actividad es necesario que los participantes tengan instalado el programa Rstudio y en él descargados los siguientes paquetes: 
 
-- lubridate
-- dplyr
-- ggplot2
-- rerrdap
-- mapdata
+- [lubridate](https://lubridate.tidyverse.org)
+- [dplyr](https://dplyr.tidyverse.org)
+- [ggplot2](https://ggplot2.tidyverse.org)
+- [rerddap](https://github.com/ropensci/rerddap)
+- [mapdata](https://cran.r-project.org/web/packages/mapdata/index.html)
+- [reshape2](https://github.com/hadley/reshape)
+- [tidyr](https://tidyr.tidyverse.org)
+
+Para los que no están familiarizados o están oxidados en el uso de R pueden revisar el excelente libro [R for Data Science](https://r4ds.had.co.nz)
 
 Por favor instalen estos paquetes **ANTES** de venir al taller.
 
@@ -57,7 +61,7 @@ Por favor instalen estos paquetes **ANTES** de venir al taller.
 ## Métodos para el control de calidad y registro de datos en OBIS
 
 
-Todoslos datos obtenidos durante el taller serán enviados al [Sistema de Información Biogeográfica de los Océanos OBIS](http://obis.org). Ene sta base de datos global se pueden extraer información de mas de 50 millones de registros integrados de mas de 125 mil especies marinas e mas de 1200 bases de datos diferentes. 
+Todoslos datos obtenidos durante el taller serán enviados al [Sistema de Información Biogeográfica de los Océanos OBIS](http://obis.org). Ene sta base de datos global se pueden extraer información de mas de 50 millones de registros integrados de mas de 125 mil especies marinas e mas de 3000 bases de datos diferentes. 
 
 ![OBIS](images/OBIS.png)
 
