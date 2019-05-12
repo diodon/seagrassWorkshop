@@ -6,12 +6,12 @@
 | Lunes 13               |                                                                 |
 |:------------------ |:-------------------------------------------------------------------------- |
 9:30am              | Transporte busca a los participantes en el Hotel para llevarlos al INVEMAR
-10:00am - 10:45am   | Bienvenida al INVEMAR *Paula Sierra*. Introducción al Taller. Presentación de los participantes
-10:45am - 12:00m    | Recorrido por las instalaciones del INVEMAR
+10:00am - 11:30am   | Bienvenida al INVEMAR *Paula Sierra*. Introducción al Taller. Presentación de los participantes. <br> Programas globales de monitoreo de la biodiversidad. MBON. Programa de Monitoreo de la biodiversidad marina Polo a Polo de las Américas. *Enrique Montes*. <br>
+11:30am - 12:00m    | Recorrido por las instalaciones del INVEMAR
 12:00m - 1:00pm     | Almuerzo en el INVEMAR
-1:00pm - 3:15pm     | Introducción a los sistemas de Pastos Marinos dentro del marco del programa GOOS Biología y Ecosistemas. *Patricia Miloslavich*. <br> Introducción al Sistema de Información Biogeográfica OBIS *Eduardo Klein*.
+1:00pm - 3:15pm     | Introducción a los sistemas de Pastos Marinos. *Diana Gómez*. <br> Método de estimación de cobertura y biomasa en pastos marinos. *Diana Gómez*.  <br> Los peces asociados a los pastos marinos *Juan David Gonzalez*.  <br>
 3:15pm - 3:30pm     | Receso café
-3:30pm - 5:00pm     | Método de estimación de cobertura y biomasa en pastos marinos. *Diana Gómez*.  <br> Los peces asociados a los pastos marinos *Juan David Gonzalez*.  <br>Método de medición de la tasa depredación de peces (SquidPops). Ensamblaje de los SquidPops. *Jonathan Leafcheck*.
+3:30pm - 5:00pm     | Método de medición de la tasa depredación de peces (SquidPops). Ensamblaje de los SquidPops. *Jonathan Leafcheck*.
 
 
 
@@ -27,9 +27,10 @@
 8:00am              | Transporte del hotel al INVEMAR
 8:30am - 12:00m     | Trabajo de Campo. PN Tayrona. <br> Procesamiento de muestras en INVEMAR.
 12:00m - 1:00pm     | Almuerzo
-1:00pm - 3:15pm     | Procesamiento de muestras/vídeos
+1:00pm - 3:15pm     | Los pastos marinos dentro del marco del programa de Observación Global del Océano GOOS biology & Ecosystems *Patricia Miloslavich*. <br> Procesamiento de muestras/vídeos
 3:15pm - 3:30pm     | Receso café
-3:30pm - 5:00pm     | Procesamiento de muestras
+3:30pm - 4:15pm     | Sistema de Información Biogeográfica del Océano OBIS *Eduardo Klein*.
+4:15pm - 5:00pm     | Procesamiento de muestras
 
 
 
