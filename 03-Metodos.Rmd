@@ -5,7 +5,7 @@
 
 ## Métodos para estimar la abundancia y composicion de peces asociados a los pastos marinos
 
-![Censo de peces](images/fishpop.png)
+![Censo de peces](images/squidpop_chengue.png)
 
 
 Uno d elos métodos mas empleados para la caracterización de las comunidades de peces son los censos visuales. Durante el taller realizaremos un cesnos visual selectivo, utilizando registros videográficos en varios lugares durane un tiempo estándar. 
@@ -70,3 +70,6 @@ Nuestros datos estarán asociados al nodo [OBIS del Caribe](https://obis.org/nod
 El proceso de enviar los datos a OBIS para por estricto control de calidad que incluye el control de calidad taxonómica, haciendo la verificación con el Registro Mundial de especies Marinas [WoRMS](http://marinespecies.org) 
 
 
+# Reporte final
+
+Descargar el [reporte final](Colombia_Lounsbery_Workshop_Report_COL_August2019.pdf) del taller.
